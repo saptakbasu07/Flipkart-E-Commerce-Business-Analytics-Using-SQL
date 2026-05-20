@@ -1,0 +1,501 @@
+﻿product_id,product_name,category,base_price,seller_id,stock_quantity
+1,Dell Laptop 858,Electronics,2644,167,417
+2,iPhone 604,Electronics,54863,27,115
+3,iPhone 216,Electronics,15569,57,448
+4,iPhone 780,Electronics,70465,63,172
+5,Dell Laptop 701,Electronics,51896,8,42
+6,Realme Phone 165,Electronics,43575,182,467
+7,Dell Laptop 666,Electronics,21471,72,115
+8,Boat Earbuds 880,Electronics,24613,65,459
+9,Dell Laptop 424,Electronics,40226,193,280
+10,Samsung TV 229,Electronics,31992,33,390
+11,iPhone 915,Electronics,12385,15,124
+12,Realme Phone 926,Electronics,47574,39,131
+13,Boat Earbuds 805,Electronics,57387,193,263
+14,Boat Earbuds 534,Electronics,35701,111,395
+15,Boat Earbuds 694,Electronics,43218,166,430
+16,Boat Earbuds 205,Electronics,14599,58,338
+17,Boat Earbuds 756,Electronics,57743,4,494
+18,Dell Laptop 656,Electronics,7965,176,393
+19,Boat Earbuds 563,Electronics,51249,59,17
+20,Boat Earbuds 209,Electronics,44298,79,438
+21,Dell Laptop 346,Electronics,33210,168,434
+22,Realme Phone 580,Electronics,34585,25,350
+23,Dell Laptop 614,Electronics,49218,171,424
+24,Dell Laptop 916,Electronics,43912,55,252
+25,iPhone 184,Electronics,17148,143,303
+26,Dell Laptop 375,Electronics,4339,84,380
+27,Boat Earbuds 133,Electronics,47888,18,281
+28,Boat Earbuds 557,Electronics,22095,102,494
+29,Samsung TV 858,Electronics,24532,25,56
+30,Realme Phone 454,Electronics,37311,46,388
+31,Dell Laptop 625,Electronics,5398,101,267
+32,Samsung TV 191,Electronics,18087,150,180
+33,Realme Phone 242,Electronics,74667,21,104
+34,Boat Earbuds 499,Electronics,65706,177,372
+35,Samsung TV 631,Electronics,47093,177,245
+36,iPhone 367,Electronics,14049,168,372
+37,Dell Laptop 293,Electronics,20870,60,368
+38,Dell Laptop 983,Electronics,35342,185,87
+39,iPhone 723,Electronics,35112,62,468
+40,Dell Laptop 367,Electronics,16671,17,326
+41,Realme Phone 394,Electronics,20805,146,79
+42,Boat Earbuds 331,Electronics,2286,141,261
+43,Dell Laptop 722,Electronics,31325,126,117
+44,Dell Laptop 699,Electronics,47643,185,330
+45,iPhone 532,Electronics,11364,62,174
+46,iPhone 204,Electronics,11653,28,25
+47,Dell Laptop 436,Electronics,26605,67,217
+48,Realme Phone 385,Electronics,70848,55,81
+49,Samsung TV 285,Electronics,31903,64,278
+50,Boat Earbuds 820,Electronics,64195,54,309
+51,iPhone 354,Electronics,64919,113,500
+52,Realme Phone 310,Electronics,64878,109,427
+53,Realme Phone 290,Electronics,20423,2,326
+54,Realme Phone 314,Electronics,60507,60,48
+55,Dell Laptop 962,Electronics,73231,144,412
+56,Samsung TV 653,Electronics,2408,167,234
+57,Samsung TV 656,Electronics,18161,16,353
+58,Boat Earbuds 688,Electronics,36941,81,167
+59,iPhone 550,Electronics,65999,92,174
+60,Realme Phone 631,Electronics,19061,171,73
+61,Realme Phone 128,Electronics,74798,133,174
+62,iPhone 925,Electronics,19862,152,293
+63,Samsung TV 448,Electronics,69560,119,45
+64,Boat Earbuds 536,Electronics,40638,191,27
+65,Dell Laptop 890,Electronics,4115,127,41
+66,Dell Laptop 318,Electronics,32530,184,230
+67,iPhone 206,Electronics,79369,153,135
+68,Dell Laptop 310,Electronics,16953,59,259
+69,Dell Laptop 737,Electronics,12115,147,333
+70,Samsung TV 128,Electronics,56285,14,468
+71,iPhone 393,Electronics,50636,37,422
+72,iPhone 500,Electronics,25922,33,162
+73,Dell Laptop 672,Electronics,37391,83,41
+74,Dell Laptop 436,Electronics,19616,113,329
+75,iPhone 232,Electronics,5175,89,254
+76,Realme Phone 932,Electronics,4974,83,15
+77,Realme Phone 201,Electronics,76497,83,232
+78,Boat Earbuds 820,Electronics,60549,76,104
+79,iPhone 422,Electronics,36118,95,482
+80,Boat Earbuds 529,Electronics,65484,13,69
+81,Dell Laptop 761,Electronics,67328,63,28
+82,iPhone 173,Electronics,31370,9,188
+83,Realme Phone 153,Electronics,52803,66,411
+84,Boat Earbuds 543,Electronics,49100,13,16
+85,iPhone 400,Electronics,6903,92,138
+86,Realme Phone 573,Electronics,52468,113,189
+87,Samsung TV 469,Electronics,55252,155,82
+88,Boat Earbuds 505,Electronics,57705,16,52
+89,Samsung TV 643,Electronics,7180,23,269
+90,iPhone 274,Electronics,15994,169,200
+91,iPhone 670,Electronics,17401,6,167
+92,Samsung TV 211,Electronics,46328,66,46
+93,Dell Laptop 800,Electronics,37982,49,429
+94,iPhone 740,Electronics,7225,150,244
+95,Dell Laptop 583,Electronics,9590,26,221
+96,Realme Phone 360,Electronics,40341,73,197
+97,Realme Phone 721,Electronics,25594,171,287
+98,Samsung TV 289,Electronics,68648,162,75
+99,Boat Earbuds 863,Electronics,38575,200,306
+100,Dell Laptop 866,Electronics,44547,136,475
+101,Jacket 413,Fashion,340,99,183
+102,Jacket 361,Fashion,2222,192,158
+103,Jacket 859,Fashion,4349,123,394
+104,Women Kurti 589,Fashion,4210,121,483
+105,Women Kurti 563,Fashion,670,38,189
+106,Men T-Shirt 676,Fashion,4707,33,443
+107,Jacket 685,Fashion,2811,111,227
+108,Sneakers 871,Fashion,968,49,467
+109,Jeans 267,Fashion,2373,169,342
+110,Jacket 315,Fashion,3972,4,281
+111,Jeans 530,Fashion,2909,161,201
+112,Sneakers 851,Fashion,3705,78,448
+113,Jeans 903,Fashion,4211,9,191
+114,Sneakers 966,Fashion,753,179,53
+115,Jeans 477,Fashion,2397,164,435
+116,Jacket 808,Fashion,2927,95,209
+117,Women Kurti 602,Fashion,2488,92,182
+118,Jeans 826,Fashion,3497,62,433
+119,Jeans 806,Fashion,1805,145,470
+120,Jeans 320,Fashion,3980,34,280
+121,Women Kurti 586,Fashion,4984,143,264
+122,Men T-Shirt 834,Fashion,2533,104,21
+123,Women Kurti 519,Fashion,4726,200,247
+124,Sneakers 797,Fashion,2464,198,317
+125,Jeans 301,Fashion,678,102,420
+126,Men T-Shirt 542,Fashion,2134,175,279
+127,Jeans 242,Fashion,4322,145,43
+128,Jacket 214,Fashion,1881,86,21
+129,Sneakers 922,Fashion,3110,10,60
+130,Sneakers 720,Fashion,3156,136,41
+131,Sneakers 739,Fashion,1462,172,33
+132,Men T-Shirt 636,Fashion,1911,5,82
+133,Women Kurti 889,Fashion,2754,147,450
+134,Women Kurti 876,Fashion,2605,24,366
+135,Sneakers 788,Fashion,3187,31,340
+136,Women Kurti 686,Fashion,3744,18,64
+137,Jacket 259,Fashion,4085,112,478
+138,Jeans 704,Fashion,1085,8,424
+139,Women Kurti 946,Fashion,4911,99,231
+140,Sneakers 761,Fashion,2379,75,433
+141,Women Kurti 671,Fashion,4245,41,281
+142,Jacket 407,Fashion,2285,79,331
+143,Jacket 745,Fashion,739,188,101
+144,Sneakers 586,Fashion,949,20,215
+145,Women Kurti 466,Fashion,3003,109,237
+146,Jacket 720,Fashion,2576,173,406
+147,Jacket 351,Fashion,1476,196,372
+148,Sneakers 703,Fashion,4479,69,450
+149,Jacket 181,Fashion,4613,130,259
+150,Sneakers 363,Fashion,4710,14,160
+151,Men T-Shirt 553,Fashion,1654,98,170
+152,Women Kurti 954,Fashion,1121,57,48
+153,Jacket 151,Fashion,449,20,370
+154,Men T-Shirt 571,Fashion,4943,199,421
+155,Jeans 355,Fashion,4038,94,234
+156,Jacket 202,Fashion,3541,8,50
+157,Jacket 314,Fashion,2012,8,461
+158,Men T-Shirt 836,Fashion,4487,114,441
+159,Women Kurti 996,Fashion,2093,12,380
+160,Men T-Shirt 780,Fashion,2554,116,194
+161,Sneakers 128,Fashion,2210,181,487
+162,Sneakers 318,Fashion,2045,163,347
+163,Men T-Shirt 185,Fashion,1100,44,221
+164,Women Kurti 178,Fashion,1594,4,10
+165,Sneakers 179,Fashion,4594,178,313
+166,Sneakers 512,Fashion,1701,70,137
+167,Jeans 655,Fashion,2567,143,374
+168,Men T-Shirt 905,Fashion,2780,81,392
+169,Women Kurti 171,Fashion,4987,105,39
+170,Women Kurti 593,Fashion,1860,125,320
+171,Sneakers 527,Fashion,2981,97,86
+172,Jeans 583,Fashion,367,80,215
+173,Jeans 875,Fashion,3468,192,364
+174,Jacket 524,Fashion,4330,190,275
+175,Women Kurti 610,Fashion,1195,143,433
+176,Men T-Shirt 491,Fashion,3323,146,265
+177,Jeans 462,Fashion,644,126,387
+178,Jacket 490,Fashion,682,24,471
+179,Jeans 385,Fashion,2434,162,19
+180,Jacket 651,Fashion,3138,32,126
+181,Sneakers 785,Fashion,3700,65,459
+182,Jacket 554,Fashion,2702,106,381
+183,Jacket 781,Fashion,1253,114,205
+184,Jacket 180,Fashion,386,20,471
+185,Jeans 325,Fashion,3248,172,487
+186,Women Kurti 710,Fashion,3506,13,170
+187,Jeans 224,Fashion,984,127,231
+188,Men T-Shirt 182,Fashion,3149,2,470
+189,Sneakers 584,Fashion,2351,95,195
+190,Sneakers 547,Fashion,4637,124,419
+191,Men T-Shirt 543,Fashion,4298,155,381
+192,Women Kurti 917,Fashion,4832,31,142
+193,Women Kurti 110,Fashion,1537,116,497
+194,Women Kurti 863,Fashion,4275,109,498
+195,Sneakers 387,Fashion,4591,44,361
+196,Men T-Shirt 453,Fashion,2492,161,459
+197,Sneakers 705,Fashion,4719,172,406
+198,Women Kurti 450,Fashion,1357,107,59
+199,Men T-Shirt 980,Fashion,4721,126,431
+200,Men T-Shirt 911,Fashion,3604,189,344
+201,Mixer Grinder 835,Home,2540,87,326
+202,Bedsheet 737,Home,4538,97,395
+203,Sofa 546,Home,19261,139,450
+204,Mixer Grinder 994,Home,2280,63,451
+205,Mixer Grinder 625,Home,5228,38,101
+206,Bedsheet 994,Home,2007,100,324
+207,Bedsheet 118,Home,15674,144,264
+208,Sofa 936,Home,21340,194,38
+209,Sofa 755,Home,13263,75,273
+210,Bedsheet 346,Home,1395,111,41
+211,Dining Table 818,Home,542,179,446
+212,Mixer Grinder 139,Home,19021,121,200
+213,Wall Clock 915,Home,9761,14,335
+214,Bedsheet 865,Home,2390,4,74
+215,Mixer Grinder 770,Home,5736,68,198
+216,Sofa 292,Home,11006,31,468
+217,Wall Clock 658,Home,11261,54,472
+218,Wall Clock 620,Home,9765,79,22
+219,Mixer Grinder 263,Home,16929,114,93
+220,Bedsheet 422,Home,930,36,284
+221,Bedsheet 174,Home,2337,85,90
+222,Bedsheet 579,Home,14843,122,354
+223,Bedsheet 113,Home,7324,31,459
+224,Wall Clock 750,Home,17306,192,57
+225,Bedsheet 204,Home,23869,67,333
+226,Sofa 381,Home,11353,155,478
+227,Dining Table 321,Home,13842,199,205
+228,Wall Clock 685,Home,15182,120,438
+229,Wall Clock 307,Home,5443,46,445
+230,Dining Table 717,Home,2178,51,220
+231,Sofa 549,Home,10385,123,115
+232,Wall Clock 965,Home,4986,138,426
+233,Sofa 681,Home,13258,49,230
+234,Bedsheet 312,Home,22716,22,346
+235,Bedsheet 856,Home,12716,195,70
+236,Bedsheet 132,Home,4067,180,129
+237,Sofa 646,Home,19470,200,126
+238,Dining Table 789,Home,7003,40,424
+239,Dining Table 346,Home,17708,27,348
+240,Wall Clock 495,Home,11129,186,375
+241,Dining Table 607,Home,688,63,406
+242,Wall Clock 545,Home,17378,11,425
+243,Mixer Grinder 767,Home,1903,81,254
+244,Wall Clock 720,Home,7136,8,192
+245,Dining Table 597,Home,2396,38,113
+246,Dining Table 974,Home,15586,156,418
+247,Wall Clock 655,Home,15708,162,361
+248,Mixer Grinder 470,Home,23188,27,11
+249,Wall Clock 619,Home,13730,176,99
+250,Wall Clock 764,Home,18340,3,17
+251,Mixer Grinder 893,Home,22812,41,259
+252,Wall Clock 148,Home,12607,173,146
+253,Mixer Grinder 430,Home,14337,174,240
+254,Wall Clock 237,Home,3805,157,412
+255,Mixer Grinder 719,Home,7608,143,41
+256,Wall Clock 317,Home,24252,140,478
+257,Bedsheet 842,Home,17890,147,32
+258,Bedsheet 646,Home,8855,139,203
+259,Mixer Grinder 853,Home,2462,56,45
+260,Wall Clock 804,Home,23543,77,38
+261,Bedsheet 755,Home,21321,57,337
+262,Sofa 643,Home,782,135,98
+263,Bedsheet 822,Home,4003,189,458
+264,Wall Clock 640,Home,9915,82,259
+265,Wall Clock 751,Home,21200,183,49
+266,Bedsheet 938,Home,16163,100,80
+267,Bedsheet 592,Home,24178,51,437
+268,Sofa 608,Home,15231,91,342
+269,Wall Clock 589,Home,4919,80,432
+270,Sofa 551,Home,23928,4,401
+271,Sofa 440,Home,10143,36,69
+272,Wall Clock 729,Home,22199,88,333
+273,Dining Table 423,Home,5405,144,413
+274,Mixer Grinder 511,Home,20492,156,38
+275,Mixer Grinder 265,Home,15972,12,231
+276,Sofa 201,Home,3914,42,234
+277,Dining Table 670,Home,17723,158,79
+278,Dining Table 954,Home,13288,92,341
+279,Bedsheet 533,Home,6618,111,54
+280,Sofa 332,Home,12720,165,293
+281,Sofa 672,Home,16576,181,166
+282,Wall Clock 264,Home,16262,94,12
+283,Mixer Grinder 132,Home,5370,74,447
+284,Mixer Grinder 751,Home,2972,10,300
+285,Sofa 106,Home,14580,171,313
+286,Bedsheet 416,Home,24101,14,59
+287,Mixer Grinder 631,Home,4769,187,162
+288,Dining Table 923,Home,6427,171,355
+289,Wall Clock 684,Home,22995,128,406
+290,Dining Table 261,Home,13503,146,463
+291,Sofa 146,Home,21052,171,216
+292,Sofa 985,Home,3554,65,10
+293,Dining Table 466,Home,13841,38,244
+294,Mixer Grinder 907,Home,10661,79,400
+295,Mixer Grinder 446,Home,22575,16,443
+296,Bedsheet 297,Home,16567,21,51
+297,Mixer Grinder 115,Home,12755,50,377
+298,Wall Clock 650,Home,12268,144,262
+299,Bedsheet 677,Home,9030,89,461
+300,Bedsheet 267,Home,7984,103,482
+301,Perfume 846,Beauty,1158,35,318
+302,Hair Oil 568,Beauty,1326,59,407
+303,Face Wash 707,Beauty,2020,110,495
+304,Hair Oil 809,Beauty,2085,34,144
+305,Hair Oil 836,Beauty,2238,170,406
+306,Perfume 205,Beauty,1995,169,455
+307,Lipstick 122,Beauty,2439,75,98
+308,Body Lotion 620,Beauty,420,163,142
+309,Face Wash 224,Beauty,1885,130,188
+310,Body Lotion 581,Beauty,2262,19,10
+311,Perfume 758,Beauty,2496,23,195
+312,Body Lotion 861,Beauty,2929,97,189
+313,Lipstick 766,Beauty,987,71,38
+314,Hair Oil 808,Beauty,1847,56,46
+315,Face Wash 705,Beauty,1471,139,393
+316,Perfume 977,Beauty,2085,177,382
+317,Lipstick 259,Beauty,2759,19,103
+318,Hair Oil 415,Beauty,2242,82,141
+319,Perfume 886,Beauty,2540,197,247
+320,Hair Oil 153,Beauty,265,7,328
+321,Perfume 760,Beauty,1726,56,104
+322,Hair Oil 514,Beauty,2840,34,228
+323,Perfume 563,Beauty,2633,14,140
+324,Hair Oil 141,Beauty,2774,113,319
+325,Body Lotion 610,Beauty,2819,159,311
+326,Body Lotion 545,Beauty,595,77,195
+327,Perfume 374,Beauty,1069,93,241
+328,Body Lotion 257,Beauty,751,5,61
+329,Hair Oil 922,Beauty,2621,81,94
+330,Hair Oil 390,Beauty,2173,93,339
+331,Perfume 852,Beauty,439,115,303
+332,Face Wash 172,Beauty,1499,17,325
+333,Hair Oil 867,Beauty,1627,13,82
+334,Lipstick 921,Beauty,852,136,227
+335,Perfume 778,Beauty,2895,15,403
+336,Lipstick 459,Beauty,1081,167,37
+337,Hair Oil 297,Beauty,1033,99,316
+338,Face Wash 274,Beauty,2507,43,372
+339,Hair Oil 393,Beauty,1768,174,322
+340,Hair Oil 424,Beauty,1575,172,143
+341,Face Wash 651,Beauty,257,84,238
+342,Body Lotion 297,Beauty,1377,168,321
+343,Perfume 928,Beauty,2852,81,357
+344,Body Lotion 877,Beauty,1226,52,293
+345,Perfume 106,Beauty,1979,20,442
+346,Perfume 561,Beauty,1507,166,237
+347,Lipstick 428,Beauty,1581,166,474
+348,Lipstick 909,Beauty,2824,112,241
+349,Face Wash 119,Beauty,581,72,434
+350,Perfume 524,Beauty,1821,187,245
+351,Hair Oil 915,Beauty,1513,184,148
+352,Face Wash 378,Beauty,909,168,200
+353,Perfume 564,Beauty,1666,165,443
+354,Hair Oil 471,Beauty,720,165,254
+355,Hair Oil 408,Beauty,161,134,176
+356,Body Lotion 121,Beauty,373,77,466
+357,Hair Oil 879,Beauty,2137,6,452
+358,Hair Oil 957,Beauty,1052,57,438
+359,Lipstick 429,Beauty,2374,1,496
+360,Hair Oil 826,Beauty,1861,149,113
+361,Lipstick 689,Beauty,380,29,449
+362,Lipstick 542,Beauty,2623,57,231
+363,Hair Oil 159,Beauty,635,118,346
+364,Body Lotion 755,Beauty,1914,52,63
+365,Body Lotion 689,Beauty,282,160,208
+366,Lipstick 662,Beauty,1871,39,86
+367,Body Lotion 983,Beauty,2251,193,260
+368,Body Lotion 629,Beauty,2456,131,474
+369,Body Lotion 256,Beauty,1576,104,281
+370,Hair Oil 650,Beauty,1188,48,490
+371,Face Wash 112,Beauty,1953,84,141
+372,Hair Oil 933,Beauty,623,195,420
+373,Face Wash 493,Beauty,2844,17,437
+374,Perfume 491,Beauty,1284,138,91
+375,Body Lotion 286,Beauty,2644,31,338
+376,Face Wash 560,Beauty,379,72,353
+377,Face Wash 779,Beauty,2484,164,130
+378,Hair Oil 651,Beauty,2827,17,196
+379,Lipstick 624,Beauty,2526,7,151
+380,Hair Oil 708,Beauty,1400,154,144
+381,Lipstick 888,Beauty,1495,155,399
+382,Face Wash 731,Beauty,2442,24,453
+383,Lipstick 737,Beauty,2593,6,329
+384,Body Lotion 964,Beauty,1881,19,466
+385,Perfume 415,Beauty,1897,25,62
+386,Hair Oil 877,Beauty,1289,1,219
+387,Hair Oil 151,Beauty,2275,142,88
+388,Perfume 794,Beauty,2802,125,374
+389,Body Lotion 819,Beauty,1316,9,128
+390,Lipstick 302,Beauty,2279,24,239
+391,Perfume 703,Beauty,773,80,322
+392,Perfume 748,Beauty,2793,157,148
+393,Body Lotion 963,Beauty,891,20,316
+394,Body Lotion 138,Beauty,1802,55,144
+395,Body Lotion 955,Beauty,2141,195,252
+396,Lipstick 644,Beauty,827,130,98
+397,Face Wash 731,Beauty,963,72,141
+398,Body Lotion 906,Beauty,2290,2,70
+399,Lipstick 420,Beauty,2615,200,61
+400,Perfume 990,Beauty,2385,95,422
+401,Cooking Oil 260,Grocery,1082,195,120
+402,Sugar 606,Grocery,391,82,86
+403,Cooking Oil 250,Grocery,246,190,114
+404,Sugar 457,Grocery,389,142,13
+405,Biscuits 302,Grocery,910,182,142
+406,Tea 889,Grocery,1111,44,323
+407,Tea 142,Grocery,826,48,197
+408,Tea 634,Grocery,975,6,402
+409,Biscuits 997,Grocery,495,98,19
+410,Sugar 161,Grocery,1435,35,224
+411,Cooking Oil 873,Grocery,814,6,42
+412,Rice 478,Grocery,100,199,120
+413,Tea 885,Grocery,741,194,204
+414,Sugar 621,Grocery,233,61,235
+415,Sugar 701,Grocery,113,177,444
+416,Tea 354,Grocery,1177,190,48
+417,Cooking Oil 821,Grocery,849,85,241
+418,Tea 965,Grocery,640,86,68
+419,Cooking Oil 741,Grocery,363,4,287
+420,Cooking Oil 903,Grocery,600,34,311
+421,Sugar 803,Grocery,166,115,48
+422,Sugar 794,Grocery,1217,152,418
+423,Cooking Oil 719,Grocery,837,169,444
+424,Sugar 304,Grocery,194,98,84
+425,Sugar 628,Grocery,429,125,269
+426,Tea 817,Grocery,913,167,107
+427,Rice 468,Grocery,900,46,171
+428,Rice 803,Grocery,200,36,119
+429,Tea 272,Grocery,1242,173,416
+430,Rice 793,Grocery,113,135,45
+431,Rice 103,Grocery,407,53,370
+432,Biscuits 126,Grocery,1089,167,180
+433,Sugar 778,Grocery,478,125,78
+434,Rice 960,Grocery,1065,107,118
+435,Sugar 900,Grocery,205,176,482
+436,Sugar 156,Grocery,1480,62,33
+437,Sugar 580,Grocery,1099,184,412
+438,Tea 280,Grocery,117,17,425
+439,Sugar 968,Grocery,1275,24,375
+440,Cooking Oil 207,Grocery,1317,178,235
+441,Tea 496,Grocery,1455,55,64
+442,Cooking Oil 173,Grocery,84,79,100
+443,Cooking Oil 989,Grocery,1165,142,57
+444,Rice 645,Grocery,497,7,448
+445,Tea 219,Grocery,392,102,55
+446,Sugar 680,Grocery,511,25,488
+447,Rice 119,Grocery,420,194,175
+448,Rice 330,Grocery,1162,167,19
+449,Rice 320,Grocery,1208,168,464
+450,Sugar 967,Grocery,617,100,325
+451,Biscuits 184,Grocery,1064,37,467
+452,Biscuits 260,Grocery,1475,183,302
+453,Sugar 107,Grocery,768,59,133
+454,Cooking Oil 471,Grocery,912,34,176
+455,Rice 136,Grocery,1043,63,28
+456,Tea 781,Grocery,503,169,74
+457,Rice 705,Grocery,1251,39,160
+458,Rice 589,Grocery,742,146,333
+459,Biscuits 524,Grocery,152,57,417
+460,Biscuits 330,Grocery,460,57,319
+461,Rice 702,Grocery,106,142,162
+462,Rice 501,Grocery,139,24,375
+463,Tea 540,Grocery,598,101,195
+464,Rice 950,Grocery,1346,95,454
+465,Tea 623,Grocery,1366,42,40
+466,Rice 614,Grocery,396,1,58
+467,Biscuits 456,Grocery,64,104,390
+468,Rice 963,Grocery,116,117,185
+469,Rice 860,Grocery,1019,163,191
+470,Rice 387,Grocery,376,170,84
+471,Sugar 742,Grocery,1430,111,187
+472,Biscuits 650,Grocery,341,1,141
+473,Sugar 597,Grocery,1429,87,126
+474,Tea 599,Grocery,646,37,379
+475,Biscuits 217,Grocery,496,17,452
+476,Tea 472,Grocery,1196,14,35
+477,Cooking Oil 743,Grocery,766,79,250
+478,Cooking Oil 422,Grocery,1458,36,313
+479,Tea 308,Grocery,100,145,276
+480,Cooking Oil 367,Grocery,288,68,373
+481,Biscuits 780,Grocery,455,108,13
+482,Biscuits 402,Grocery,76,43,98
+483,Tea 273,Grocery,1398,21,106
+484,Tea 860,Grocery,432,140,24
+485,Sugar 454,Grocery,594,174,26
+486,Rice 497,Grocery,768,198,291
+487,Tea 667,Grocery,434,158,114
+488,Cooking Oil 873,Grocery,385,150,226
+489,Tea 544,Grocery,633,99,152
+490,Biscuits 956,Grocery,1186,92,205
+491,Cooking Oil 438,Grocery,168,191,358
+492,Rice 764,Grocery,1206,40,192
+493,Biscuits 115,Grocery,295,3,83
+494,Sugar 452,Grocery,1132,174,449
+495,Cooking Oil 430,Grocery,430,173,454
+496,Sugar 879,Grocery,1149,196,72
+497,Sugar 910,Grocery,1135,53,424
+498,Sugar 889,Grocery,936,126,122
+499,Rice 851,Grocery,1201,135,158
+500,Rice 207,Grocery,1263,37,366
