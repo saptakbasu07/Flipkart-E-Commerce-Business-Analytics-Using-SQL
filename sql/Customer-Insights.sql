@@ -1,4 +1,4 @@
-select*from orders;
+
 
 --Who are the High-Value Customers?
 with revenue as(	
